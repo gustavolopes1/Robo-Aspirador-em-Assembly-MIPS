@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://github.com/gustavolopes1/Aspirador-em-Assembly-MIPS/blob/main/bit_map_config.png)
+![alt text](https://github.com/gustavolopes1/Robo-Aspirador-em-Assembly-MIPS/blob/master/bit_map_config.png)
 
 
 Simulação de um aspirador automático a partir do Assembly MIPS e chamadas de sistema. O programa MARS (MIPS Assembler and Runtime
